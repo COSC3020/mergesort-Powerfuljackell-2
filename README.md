@@ -14,7 +14,6 @@ where are elements moved to and from? To make it iterative, think about the
 part of the array each recursive call considers.
 
 ## Runtime Analysis
-//assisted by Aaron Krapes in my understanding
 
 Analyse the time complexity of your implementation and give a $\Theta$ bound for
 its worst-case runtime. Add your answer, including your reasoning, to this
